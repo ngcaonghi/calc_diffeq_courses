@@ -10,7 +10,7 @@ This is an in-progress repository for tools and materials for a course in calcul
 | 2 | Functions and models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H41Q7ZILCkSQuJws70eW3vGJWnxwfgJ7?usp=sharing) |
 | 3 | The geometrical intuition behind differentiation and integration | TBA |
 | 4 | The derivatives of transcendental functions | TBA |
-| 5 | Integration, antiderivatives, and the fundamental theorem of calculus | TBA |
+| 5 | Antiderivatives | TBA |
 | 6 | Sequence and series | TBA |
 | 7 | An intuition of limits and asymptotes | TBA |
 | 8 | The epsilon-delta definition of limits | TBA |
