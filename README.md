@@ -15,7 +15,7 @@ This is an in-progress repository for tools and materials for a course in calcul
 | 7 | An intuition of limits and asymptotes | TBA |
 | 8 | The epsilon-delta definition of limits | TBA |
 | 9 | Continuity | TBA | TBA | TBA |
-| 10 | Functions and inverse functions | TBA |
+| 10 | Inverse functions | TBA |
 | 11 | Integrability and differentiability | TBA |
 | 12 | The first fundamental theorem of calculus | TBA |
 | 13 | The second fundamental theorem of calculus | TBA |
