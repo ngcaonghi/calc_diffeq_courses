@@ -28,3 +28,11 @@ This is an in-progress repository for tools and materials for a course in calcul
 | 20 | Polynomial approximation | TBA |
 | 21 | Convergence and divergence | TBA |
 | 22 | Final | TBA |
+
+## Tool for demonstrating autodifferentiation in computer algebra systems (in progress)
+[Link to ./main/autodiff_toy in this repository](./autodiff_toy).
+
+## Tool for clustering documents of similar topics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JHF-CyewveylBSoc-OVseeux-4W7_c1k?usp=sharing)
+
+For clustering students into group projects based on their statements of interest. The tool is based on variational autoencoder, which projects sparse vectors representing documents onto lower dimensions, and k-means clustering. 
