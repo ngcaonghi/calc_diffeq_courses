@@ -5,7 +5,7 @@ This is an in-progress repository for tools and materials for a course in calcul
 ## Course syllabus for calculus (in-progress)
 
 | Session | Topic | Colab file |
-|---| --- | --- | --- | --- |
+|---| --- | --- |
 | 1 | Introductions to calculus problems and mathematical Toolkits | https://colab.research.google.com/drive/16C0b4dsViJMuRzYowiUG7Q6z5-YvYOzf?usp=sharing |
 | 2 | Functions and models | https://colab.research.google.com/drive/1H41Q7ZILCkSQuJws70eW3vGJWnxwfgJ7?usp=sharing |
 | 3 | The geometrical intuition behind differentiation and integration | TBA |
